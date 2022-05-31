@@ -33,7 +33,7 @@
 
 ### 🎧 Now Playing 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=u76tjyzj9e5wpyqpom127wivv&cover_image=true&theme=natemoo-re&bar_color=00fbff)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=u76tjyzj9e5wpyqpom127wivv&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=u76tjyzj9e5wpyqpom127wivv&cover_image=true&theme=default&bar_color=141414&bar_color_cover=true)]]
 
 <br/>
 
