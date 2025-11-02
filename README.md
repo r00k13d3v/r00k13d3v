@@ -39,6 +39,7 @@ Actualmente curso un máster en **Ciberseguridad**, explorando el equilibrio ent
 ---
 ### 📈 Métricas
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=r00k13d3v&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Santiago González Mota" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00k13d3v&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=r00k13d3v&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
+
 ---
 
 ### 🧠 Actualmente
