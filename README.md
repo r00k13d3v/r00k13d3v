@@ -37,18 +37,8 @@ Actualmente curso un máster en **Ciberseguridad**, explorando el equilibrio ent
 | **Seguridad** | ENS · CCN-STIC · Vault Secrets · TLS mTLS |
 
 ---
-
-### 🚀 Repos destacados
-
-🔹 **[awesome-cyberdev](https://github.com/r00k13d3v/awesome-cyberdev)**  
-Recopilación de laboratorios y recursos de ciberseguridad y desarrollo (Red/Blue Team, DevSecOps, patrones limpios).
-
-🔹 **[spring-hex-template](https://github.com/r00k13d3v/spring-hex-template)**  
-Plantilla base para proyectos Java 21 con arquitectura hexagonal, pruebas y configuración modular.
-
-🔹 **[nest-clean-arch](https://github.com/r00k13d3v/nest-clean-arch)**  
-Backend en NestJS siguiendo DDD + Clean Architecture + CI/CD en GitLab.
-
+### 📈 Métricas
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=r00k13d3v&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Santiago González Mota" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r00k13d3v&layout=compact&theme=tokyonight&langs_count=8" alt="Lenguajes más usados" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=r00k13d3v&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 ---
 
 ### 🧠 Actualmente
