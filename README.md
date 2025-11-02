@@ -62,7 +62,7 @@ Backend en NestJS siguiendo DDD + Clean Architecture + CI/CD en GitLab.
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/santiagogm/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/santiagogm/)
 - 🧑‍💻 [GitHub](https://github.com/r00k13d3v)  
 - ✉️ santiago.gonzalez.mota@proton.me  
 
